@@ -1,4 +1,4 @@
-<h1 align="center">BugCom Prototype</h1>
+<h1 align="center">DePro Prototype</h1>
 
 Here are the steps to run the prototype of BugCom:
 
